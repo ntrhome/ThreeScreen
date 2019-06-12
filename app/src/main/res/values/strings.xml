@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThreeScreen</string>
+    <string name="buttonAbout_text">About</string>
+    <string name="About_title">О программе</string>
+    <string name="About_textView_text">
+        У лукоморья дуб зелёный;\n
+        Златая цепь на дубе том:\n
+        И днём и ночью <b>кот учёный</b>\n
+        Всё ходит по цепи кругом;\n
+        Идёт <i>направо</i> - песнь заводит,\n
+        <u>Налево</u> - сказку говорит.
+    </string>
+    <string name="Birthday_title">День народження</string>
+    <string name="textView_SD_text">Передача данных</string>
+    <string name="buttonSend_text">Передать</string>
+    <string name="editText_SD_Who_text">Кто</string>
+    <string name="editText_SD_When_text">Сообщение</string>
+</resources>
